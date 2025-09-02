@@ -2,8 +2,8 @@
 
 👋 Hello and welcome!
 
-I’m **Ilham Wahdini**, a Data Scientist and former Process Engineer with a background in **Chemical Engineering**.  
-I’m passionate about turning raw data into actionable insights and leveraging **analysis and machine learning** to solve real-world challenges across industries like **manufacturing, energy, and technology**.
+I’m **Ilham Wahdini**, a Data Scientist and former Process Engineer with a background in Chemical Engineering.
+I’m passionate about turning raw data into actionable insights and leveraging **analysis and machine learning** to solve real-world challenges across industries like **manufacturing, energy, technology and even data across all industries**.
 
 ---
 
