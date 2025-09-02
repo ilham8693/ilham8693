@@ -2,7 +2,7 @@
 
 👋 Hello and welcome!
 
-I’m **Ilham Wahdini**, a Data Scientist and former Process Engineer with a strong background in **Chemical Engineering**.  
+I’m **Ilham Wahdini**, a Data Scientist and former Process Engineer with a background in **Chemical Engineering**.  
 I’m passionate about turning raw data into actionable insights and leveraging **analysis and machine learning** to solve real-world challenges across industries like **manufacturing, energy, and technology**.
 
 ---
@@ -26,7 +26,7 @@ I’m passionate about turning raw data into actionable insights and leveraging 
 
 ## 🎓 Education
 **Hacktiv8 Data Science Bootcamp**  
-Core Skills: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering  
+Core Skills: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, and Feature Engineering  
 
 **Chemical Engineering Background**  
 Process optimization, problem-solving, and analytical thinking applied now in **data-driven projects**.  
