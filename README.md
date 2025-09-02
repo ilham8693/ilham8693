@@ -34,7 +34,7 @@ Process optimization, problem-solving, and analytical thinking applied now in **
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ilhamwahdini/](https://www.linkedin.com/in/ilham-wahdini-44b638374/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/ilham-wahdini-44b638374/])  
 - 📧 Email: ilhamwahdini8@gmail.com  
 
 ---
